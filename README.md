@@ -42,6 +42,7 @@ Make sure your webcam is connected and run:
 ## File Structure
 
 crowd_detection_yolov8/
+
 │
 ├── crowd_detection_yolo11.py       
 ├── LICENSE                         
@@ -52,6 +53,7 @@ crowd_detection_yolov8/
 ## Credits
 
 -Ultralytics for YOLOv8
+
 -OpenAI's ChatGPT for coding guidance
 
 ---
