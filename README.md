@@ -43,7 +43,7 @@ Make sure your webcam is connected and run:
 
 crowd_detection_yolov8/
 
-│
+
 ├── crowd_detection_yolo11.py       
 ├── LICENSE                         
 └── README.md                       
